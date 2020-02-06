@@ -1,0 +1,28 @@
+.card-white {
+  width: 200px;
+  border-radius: 4px;
+  background-color: white;
+  text-align: center;
+  border: 1px solid rgba(220, 220, 220, 0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  padding: 20px;
+  align-items: center;
+}
+
+.card-white .card-image {
+  height: 100px;
+}
+
+.card-white .card-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 0;
+}
+
+.card-white .card-text {
+  color: rgba(0,0,0,0.8);
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 0;
+}

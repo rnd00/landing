@@ -1,0 +1,18 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  align-items: center;
+}
+
+.banner .container {
+  color: white;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.banner .container p {
+  color: rgba(250,250,250,0.8);
+  font-weight: 400;
+  font-size: 20px;
+}
